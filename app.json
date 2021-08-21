@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "Mrunal-X",
+  "description": "THE noob USERBOT MADED BY TEAM Angel MANY MODULES AND SUPER BOT; JOIN @Beast_Selling FOR HELP ",
+  "logo": "https://t.me/PostersforBot/22",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/ULTRA-OP/HEROKU/",
   "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "success_url": "https://t.me/Beast_Selling",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @Aceduke_xd.",
       "value": "",
       "required": false
     },
