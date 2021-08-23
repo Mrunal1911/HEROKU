@@ -1,7 +1,7 @@
 {
-  "name": "AngelX",
-  "description": "THE noob USERBOT MADED BY TEAM Angel MANY MODULES AND SUPER BOT; JOIN @Beast_Selling FOR HELP ",
-  "logo": "https://telegra.ph/file/57adf70f74c478b695072.jpg",
+  "name": "✙ 𝐒𝐢𝐧𝐗 ✙",
+  "description": "THE OP USERBOT MADED BY TEAM ✙ 𝐒𝐢𝐧𝐗 ✙ MANY MODULES AND SUPER BOT; JOIN @sinx_support FOR HELP ",
+  "logo": "https://telegra.ph/file/7a2e0dca3bacda9335947.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/Beast_Selling",
+  "repository": "https://github.com/Mrunal1911/HEROKU/",
+  "website": "https://github.com/Mrunal1911/HEROKU/",
+  "success_url": "https://t.me/sinx_support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @Aceduke_xd.",
+      "description": "Fill your Full name or Username like ✙ 𝐒𝐢𝐧𝐗 ✙  .",
       "value": "",
       "required": false
     },
@@ -39,22 +39,22 @@
     },
     "ALIVE_PHOTTO": {
       "description": "put here any telegraph media link use .awake to show.",
-      "value": "",
+      "value": "https://telegra.ph/file/7a2e0dca3bacda9335947.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "",
+      "value": "Error:bio lost",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/ba2611444448438713c14.jpg",
       "required": false
     },
     "CUSTOM_PMPERMIT": {
       "description": "Your custom pm permit msg.",
-      "value": "",
+      "value": "Hi,Please wait for me to respond or you will be blocked and reported as spam!!Please wait for me to respond or you will be blocked and reported as spam!!",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
